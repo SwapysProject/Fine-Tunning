@@ -5,7 +5,7 @@ This project contains a single end-to-end notebook for instruction tuning a larg
 - Supervised Fine-Tuning (SFT)
 - Optional Direct Preference Optimization (DPO)
 
-Notebook:
+Code Notebook:
 - LLM_FineTuning_Industry_Grade_(1).ipynb
 
 ## What the notebook does
